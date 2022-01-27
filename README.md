@@ -14,7 +14,7 @@ Additionally, we can conditionally call sub-templates as different headers for a
 
 We can also use sub-templates as conditional, reusable blocks in our reports.   Think of an address block or a benefits block.  That block can be used every time or conditionally included on each individual report depending on the data in that report.
 
-Templates, sub-templates and XML data files are included in this repository (RTF, XML).  These can be used without uploading the PeopleSoft project.
+Templates, sub-templates and XML data files are included in this repository (RTF, XML).  These can be used without uploading the PeopleSoft project.  For easiest demonstration, but all XML & RTF files in the following directory on your machine:  C:\psreports\
 
 ### Web Posting: https://peopletoolstechtips.com/tbd
 
