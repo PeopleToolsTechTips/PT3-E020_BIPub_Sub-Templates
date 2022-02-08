@@ -16,9 +16,9 @@ We can also use sub-templates as conditional, reusable blocks in our reports.   
 
 Templates, sub-templates and XML data files are included in this repository (RTF, XML).  These can be used without uploading the PeopleSoft project.  For easiest demonstration, but all XML & RTF files in the following directory on your machine:  C:\psreports\
 
-### Web Posting: https://peopletoolstechtips.com/tbd
+### Web Posting: https://peopletoolstechtips.com/bi-publisher-sub-templates/
 
-### YouTube demo: TBD
+### YouTube demo: https://youtu.be/k7VTdObR2Ps
 
 ### Contact:  
 * randy@peopletoolstechtips.com  
